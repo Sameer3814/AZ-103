@@ -1,0 +1,6 @@
+{
+  "name": "Azure AI Lab Environment",
+  "features": {
+    "ghcr.io/devcontainers/features/azure-cli:1": {}
+  }
+}
